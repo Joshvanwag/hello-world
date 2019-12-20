@@ -1,3 +1,3 @@
 # hello-world
 
-#Josh here. Just getting started, be back soon!
+# Josh here. Just getting started, be back soon!
